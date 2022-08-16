@@ -18,6 +18,6 @@ The missing values as well as the outliers were also treated as they would have 
 
 Further on Model was build with the help of *Logistic Regression* which was imported from *sklearn*.
 
-In the end the Model was regulated and Accuracy was calculated.
+In the end the Model was regulated and Accuracy was calculated which came out more than 80 percent for both training and testing set which shows that our Model that was created with Logistic Regression works well.
 
 This project included several concepts of Machine Learning such as Data preprocessing, Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Regulation.
